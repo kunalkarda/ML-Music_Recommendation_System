@@ -5,6 +5,11 @@ It uses Random Forest for recommendations.
 
 Accuracy Score was 84%.
 
+
+# Usage
+
+* python dd.py
+
 # Future Updates:
 
-1)Analysis of Music on basis of Lyrics(Music2Vec).
+* Analysis of Music on basis of Lyrics(Music2Vec).
