@@ -8,7 +8,7 @@ Accuracy Score was 84%.
 
 # Usage
 
-* python dd.py
+* python simple.py
 
 # Future Updates:
 
